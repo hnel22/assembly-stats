@@ -31,22 +31,22 @@
     visibility: visible;
   }
   .asm-atgc {
-    stroke: rgb(166, 206, 227);
+    stroke: rgb(169, 236, 245);
     stroke-width: 0px;
-    fill: rgb(166, 206, 227);
+    fill: rgb(169, 236, 245);
   }
   .asm-gc {
-    stroke: rgb(250, 184, 250);
+    stroke: rgb(230, 172, 227);
     stroke-width: 0px;
-    fill: rgb(250, 184, 250);
+    fill: rgb(230, 172, 227);
   }
   .asm-atgc-line {
-    stroke: rgb(166, 206, 227);
+    stroke: rgb(169, 236, 245);
     stroke-width: 0.25px;
     fill: none;
   }
   .asm-gc-line {
-    stroke: rgb(250, 184, 250);
+    stroke: rgb(230, 172, 227);
     stroke-width: 0.5px;
     fill: none;
   }
@@ -82,9 +82,9 @@
     opacity: 0;
   }
   .asm-contig_count {
-    stroke: rgb(134, 8, 168);
+    stroke: rgb(160, 8, 168);
     stroke-width: 0px;
-    fill: rgb(134, 8, 168);
+    fill: rgb(160, 8, 168);
     visibility: hidden;
   }
   .asm-contig_count.asm-toggle {
@@ -92,9 +92,9 @@
     fill: rgb(255, 255, 255);
   }
   .asm-count {
-    stroke: rgb(202, 178, 214);
+    stroke: rgb(160, 8, 168);
     stroke-width: 0px;
-    fill: rgb(202, 178, 214);
+    fill: rgb(160, 8, 168);
   }
   .asm-count_axis {
     stroke: white;
