@@ -118,9 +118,9 @@
     fill: rgb(255, 127, 0);
   }
   .asm-n90_pie {
-    stroke: rgb(253, 191, 111);
+    stroke: rgb(248, 209, 12);
     stroke-width: 0px;
-    fill: rgb(253, 191, 111);
+    fill: rgb(248, 209, 12);
   }
   .asm-longest_pie {
     stroke: rgb(222, 16, 144);
@@ -131,7 +131,7 @@
   .asm-live_segment {
     stroke: none;
     stroke-width: 0px;
-    fill: rgb(252, 240, 182);
+    fill: rgb(251, 249, 183);
     opacity: 0.4;
   }
   .asm-contig {
